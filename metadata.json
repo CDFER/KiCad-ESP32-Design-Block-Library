@@ -1,0 +1,32 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "ESP32 Design Block Library",
+    "description": "A set of schematic blocks for the ESP32 modules and chips",
+    "description_full": "A set of schematic blocks for the ESP32 modules and chips using components from my JLCPCB-KiCad-Library",
+    "identifier": "com.github.CDFER.ESP32-Design-Block-Library",
+    "type": "library",
+    "author": {
+        "name": "Chris Dirks",
+        "contact": {
+            "email": "cdirksfer@gmail.com",
+            "web": "https://keastudios.co.nz/"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/CDFER/KiCad-ESP32-Design-Block-Library"
+    },
+    "tags": [
+        "esp32",
+        "jlcpcb",
+        "block",
+        "schematic"
+    ],
+    "versions": [
+        {
+            "version": "2025.01.31",
+            "status": "development",
+            "kicad_version": "9.0"
+        }
+    ]
+}
